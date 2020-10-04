@@ -5,6 +5,4 @@
         t.integer :room_number
       end
     end
-
-
  end
